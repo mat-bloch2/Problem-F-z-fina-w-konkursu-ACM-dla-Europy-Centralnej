@@ -1,0 +1,20 @@
+C:\Users\mateusz\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\mateusz\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\mateusz\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\mateusz\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\mateusz\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\mateusz\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\mateusz\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\mateusz\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\mateusz\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\mateusz\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\matbl\Dropbox\Komputer\Downloads\program_o_cysternach (1)\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
